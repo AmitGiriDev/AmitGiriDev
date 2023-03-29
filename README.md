@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **reactjs, nodejs**
 
-- 📫 How to reach me **thisisag840@gmail.com**
+- 📫 Reach me **thisisag840@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,4 +54,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitlpu-840&show_icons=true&locale=en" alt="amitlpu-840" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitlpu-840&" alt="amitlpu-840" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitlpu-840&" alt="amitlpu-840" /></p> -->
