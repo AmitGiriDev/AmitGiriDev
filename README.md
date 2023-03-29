@@ -24,6 +24,7 @@
 <a href="https://instagram.com/this_is_amitg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="this_is_amitg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/thisisag840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thisisag840" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amitlpu-840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amitlpu-840" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/codestudio/profile/5fd5d93f-1779-47b7-bb78-0438402b7667" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/codestudio/codestudio-icon-filled-256.png?v=1675596543337" alt="amitlpu-840" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
