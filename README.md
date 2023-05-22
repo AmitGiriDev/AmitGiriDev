@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-4334b.web.app/](https://my-portfolio-4334b.web.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://my-portfolio-4334b.web.app/](https://my-portfolio-4334b.web.app/) -->
 
 - 💬 Ask me about **reactjs, nodejs**
 
