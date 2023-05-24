@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitlpu-840" alt="amitlpu-840" /></a> </p> -->
 
-- 🔭 I’m currently working on [CodingVilla](https://github.com/Amitlpu-840/codingvilla-socialmedia)
+- 🔭 I’m currently working on [CodingVilla](https://github.com/Amitlpu-840/codingvilla-socialmedia)  
 
 - 🌱 I’m currently learning **MERN**
 
