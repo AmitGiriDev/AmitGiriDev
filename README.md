@@ -5,13 +5,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitlpu-840" alt="amitlpu-840" /></a> </p> -->
 
-- 🔭 I’m currently working on [CodingVilla](https://github.com/Amitlpu-840/codingvilla-socialmedia)  
+- 🔭 I’m currently working on Kindlife mobile app 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN + React Native**
 
 <!-- - 👨‍💻 All of my projects are available at [https://my-portfolio-4334b.web.app/](https://my-portfolio-4334b.web.app/) -->
 
-- 💬 Ask me about **reactjs, nodejs**
+- 💬 Ask me about **Reactjs, Nodejs, React Native**
 
 - 📫 Reach me **thisisag840@gmail.com**
 
