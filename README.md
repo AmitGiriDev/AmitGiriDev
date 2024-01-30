@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amit Giri</h1>
+<h1 align="center">Hi 👋, I'm Amit Giri</h1>  
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" width="400" alt="code with amit" src="https://camo.githubusercontent.com/f112b5359cb60a0fd59dc31415a0c28e86fe92ab6c8c1cea758233ac6d2483d3/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646f6671396768396c2f696d6167652f75706c6f61642f76313638373936383638312f70726f6772616d6d65725f70356a6b38692e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitlpu-840&label=Profile%20views&color=0e75b6&style=flat" alt="amitlpu-840" /> </p>
