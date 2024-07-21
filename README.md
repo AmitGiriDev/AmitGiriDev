@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Giri</h1>  
-<h3 align="center">A passionate MERN developer from India</h3>
-<img align="right" width="400" alt="code with amit" src="https://camo.githubusercontent.com/f112b5359cb60a0fd59dc31415a0c28e86fe92ab6c8c1cea758233ac6d2483d3/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646f6671396768396c2f696d6167652f75706c6f61642f76313638373936383638312f70726f6772616d6d65725f70356a6b38692e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitlpu-840&label=Profile%20views&color=0e75b6&style=flat" alt="amitlpu-840" /> </p>
+<h3 align="center">A passionate developer from India</h3>
+<img align="right" width="400" alt="code with amit" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmitGiriDev&label=Profile%20views&color=0e75b6&style=flat" alt="AmitGiriDev" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitlpu-840" alt="amitlpu-840" /></a> </p> -->
 
@@ -11,14 +11,14 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://my-portfolio-4334b.web.app/](https://my-portfolio-4334b.web.app/) -->
 
-- 💬 Ask me about **Reactjs, Nodejs, React Native**
+- 💬 Ask me about **MERN, React Native**
 
 - 📫 Reach me **thisisag840@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amitgir42163948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitgir42163948" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amit-giri-5a39361b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-giri-5a39361b7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amitgiri-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitgiri-dev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20637257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20637257" height="30" width="40" /></a>
 <a href="https://fb.com/amit.giri.7528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amit.giri.7528" height="30" width="40" /></a>
 <a href="https://instagram.com/this_is_amitg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="this_is_amitg" height="30" width="40" /></a>
@@ -55,4 +55,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitlpu-840&show_icons=true&locale=en" alt="amitlpu-840" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitlpu-840&" alt="amitlpu-840" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmitGiriDev&" alt="AmitGiriDev" /></p>
