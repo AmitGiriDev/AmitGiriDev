@@ -11,7 +11,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://my-portfolio-4334b.web.app/](https://my-portfolio-4334b.web.app/) -->
 
-- 💬 Ask me about **MERN, React Native**
+- 💬 Ask me about **MERN, React Native and Open source**
 
 - 📫 Reach me **thisisag840@gmail.com**
 
