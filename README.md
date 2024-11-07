@@ -53,5 +53,4 @@
 <!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitlpu-840&show_icons=true&locale=en&layout=compact" alt="amitlpu-840" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitlpu-840&show_icons=true&locale=en" alt="amitlpu-840" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmitGiriDev&" alt="AmitGiriDev" /></p>
+[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitgiridev&show_icons=true&theme=dark)](https://github.com/amitgiridev/github-readme-stats)
