@@ -54,3 +54,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitlpu-840&show_icons=true&locale=en" alt="amitlpu-840" /></p> -->
 [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitgiridev&show_icons=true&theme=dark)](https://github.com/amitgiridev/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitgiridev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
