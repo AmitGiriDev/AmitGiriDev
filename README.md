@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN, React Native and Open source**
 
-- 📫 Reach me **thisisag840@gmail.com**
+- 📫 Reach me **amitgiri.dev201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
