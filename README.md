@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitlpu-840" alt="amitlpu-840" /></a> </p> -->
 
-- 🔭 I’m currently working on Cars24 mobile app 
+- 🔭 I’m currently working on the Zepto Consumer app 
 
 - 🌱 I’m currently learning **MERN + React Native**
 
